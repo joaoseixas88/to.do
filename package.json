@@ -9,10 +9,12 @@
     "@types/jest": "^27.0.1",
     "@types/node": "^16.7.13",
     "@types/react": "^17.0.20",
-    "@types/react-dom": "^17.0.9",
+    "@types/react-dom": "^17.0.9",    
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
+    "react-icons": "^4.3.1",
     "react-scripts": "5.0.0",
+    "sass": "^1.49.7",
     "typescript": "^4.4.2",
     "web-vitals": "^2.1.0"
   },
@@ -39,5 +41,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@types/css": "^0.0.33",
+    "@types/sass": "^1.43.1"
   }
 }
