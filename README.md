@@ -1,4 +1,8 @@
-# to.do
 
-Learning react is fun.
-Doing a to.do react app to train my skills
+# Learning React is fun.
+
+This project is just to train my skills. 
+
+
+Let`s keep studying.
+
